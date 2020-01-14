@@ -1,0 +1,19 @@
+[
+{
+    "name": "Rikesh",
+    "age": 26,
+    "height": 170
+} ,
+
+{
+    "name": "Rikkii",
+    "age" : 25,
+    "height" : 180
+},
+{
+    "Name": "PPT",
+    "LastName": "Kar",
+    "age": 23,
+    "Qualification": "B.E"
+}
+]
